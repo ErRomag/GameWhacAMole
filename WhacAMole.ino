@@ -23,7 +23,6 @@ int buttonState = 0;  // Состояния кнопки
 int randomLed = 0;    // Результаты ГСЧ
 
 int j = 1; // Счетчик для повышения скорости игры
-int i = 0;
 
 void setup()
 {
